@@ -1,6 +1,6 @@
 // Flash Me Baby service worker: makes the app installable and usable offline.
 // Bump VERSION whenever you publish a new index.html so phones pick it up quickly.
-const VERSION = 'fmb-v3';
+const VERSION = 'fmb-v4';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
