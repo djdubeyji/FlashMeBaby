@@ -4,7 +4,7 @@ German–English flashcards with Tinder-style swiping, points, streaks, streak f
 
 ## Run it on GitHub Pages
 
-1. Create a repository and upload everything in this folder (keep the `icons` folder).
+1. Create a repository and upload everything in this folder (all files sit side by side, no folders).
 2. Repository **Settings → Pages → Source: Deploy from a branch**, branch `main`, folder `/ (root)`.
 3. Open `https://<your-user>.github.io/<repo>/`.
 
